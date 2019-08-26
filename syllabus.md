@@ -1,6 +1,6 @@
 ## Natural language processing in cognitive science
 
-####Course description
+#### Course description
 Language data is everywhere, from chatting with friends to writing answers to exam questions. Many cognitive science questions, such as how we represent concepts (Murphy, 1993)  or how we remember the stories people tell us (Loftus & Palmer, 1974)  are tightly coupled with language. Natural language processing (NLP) has the ability to revolutionize how we design and analyze cognitive experiments in the lab, from selecting stimuli for memory tests, to parsing participants’ written responses to a memory prompt or in a diary entry. In this course, we will see how NLP and text analytics can be applied to study cognitive science questions. We will use hands-on case studies from across subdisciplines to illustrate new computational techniques. 
 
 #### Prerequisites
