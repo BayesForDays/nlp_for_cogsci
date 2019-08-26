@@ -15,10 +15,10 @@ By the end of this course, you will be comfortable with the basic tools of the t
 
 1.	What is NLP?
 2.	How is NLP relevant to cognitive psychology?
-  *  Design and analysis of experiments
-  *  Psycholinguistics
-		*  Quantifying linguistic structure
-		*  Individual differences (domain knowledge/genre differences/language experience)
+    *  Design and analysis of experiments
+    *  Psycholinguistics
+	    *  Quantifying linguistic structure
+	    *  Individual differences (domain knowledge/genre differences/language experience)
 	*  Episodic memory
 	*  Concepts and categories
 3.	What kinds of tools are useful for doing NLP? (What are your needs/use cases?)
